@@ -1,2 +1,3 @@
 ccc
 git commit --amend
+git pull
